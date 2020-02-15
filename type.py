@@ -1,0 +1,6 @@
+print(float('1.6'))
+#print(int('2.5'))
+print(bool(1))
+print(bool(0))
+print(bool('0'))
+print('66hh')
